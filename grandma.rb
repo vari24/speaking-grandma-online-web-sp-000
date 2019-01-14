@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma
 when "Hi Nana, how are you?"
-    put "HUH?! SPEAK UP, SONNY!"
+    puts "HUH?! SPEAK UP, SONNY!"
   elsif "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
   elsif "WHAT DID YOU EAT TODAY?"
