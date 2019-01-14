@@ -1,15 +1,16 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma
-  puts "Hi Nana, how are you?"
+def speak_to_grandma(sentence)
+  if sentence == "Hi Nana, how are you?"
   return "HUH?! SPEAK UP, SONNY!"
-  "Hi!"
+elsif sentence == "Hi!"
   return "HUH?! SPEAK UP, SONNY!"
-  "WHAT DID YOU EAT TODAY?"
+elsif sentence == "WHAT DID YOU EAT TODAY?"
   return "NO, NOT SINCE 1938!"
-  "WHAT?"
+elsif == "WHAT?"
   return "NO, NOT SINCE 1938!"
-  "I LOVE YOU GRANDMA!"
+else "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
+end
 end
 
 
