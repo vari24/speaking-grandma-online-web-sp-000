@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma
-  "Hi Nana, how are you?"
+  puts "Hi Nana, how are you?"
   return "HUH?! SPEAK UP, SONNY!"
   "Hi!"
   return "HUH?! SPEAK UP, SONNY!"
