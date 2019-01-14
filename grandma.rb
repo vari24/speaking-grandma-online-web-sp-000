@@ -6,9 +6,9 @@ elsif sentence == "Hi!"
   return "HUH?! SPEAK UP, SONNY!"
 elsif sentence == "WHAT DID YOU EAT TODAY?"
   return "NO, NOT SINCE 1938!"
-elsif == "WHAT?"
+elsif sentence == "WHAT?"
   return "NO, NOT SINCE 1938!"
-else "I LOVE YOU GRANDMA!"
+else sentence == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
 end
 end
